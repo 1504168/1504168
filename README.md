@@ -63,5 +63,3 @@
   </a>
 
 </p>
-![Google Sheet file automatically filled up from my extraction process](https://github.com/1504168/1504168/assets/31016570/b7aa3105-767c-4212-8a41-737613541c8c)
-
