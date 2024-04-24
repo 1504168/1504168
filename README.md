@@ -13,8 +13,8 @@
 <br>
 
 <p align="left"> 👯 I’m currently open for work and employment opportunities (remote and relocation) </p>
-<p align="left"> 💬 Ask me about any of your task that you doing repetitively. </p>
-<p align="left"> 📫 I am just one mail away - [ 1997ismailhosen@gmail.com ] </p>
+<p align="left"> 💬 Ask me about any of your task that you are doing repetitively. </p>
+<p align="left"> 📫 I am just one email away - [ 1997ismailhosen@gmail.com ] </p>
 <br>
 <br>
 
