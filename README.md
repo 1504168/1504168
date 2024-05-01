@@ -13,8 +13,8 @@
 <br>
 
 <p align="left"> 👯 I’m currently open for work and employment opportunities (remote and relocation) </p>
-<p align="left"> 💬 Ask me about any of your task that you are doing repetitively. </p>
-<p align="left"> 📫 I am just one email away - [ 1997ismailhosen@gmail.com ] </p>
+<p align="left"> 💬 Ask me about any of your task that you doing repetitively. </p>
+<p align="left"> 📫 I am just one mail away - [ 1997ismailhosen@gmail.com ] </p>
 <br>
 <br>
 
@@ -22,20 +22,20 @@
 <br>
 <p align="left"> 
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/visual-basic-for-application.jpg" alt="Visual Basic for Application" width="120" /> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/visual-basic-i.jpg" alt="Visual Basic for Application" width="120" /> 
 
   </a> 
   <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/Power-Query.jpg" alt="power-query" width="120" /> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/power-query-i.jpg" alt="power-query" width="120" /> 
   </a> 
   <a href="https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67#:~:text=You%20can%20also%20manage%20the%20LAMBDA%20function%20as,Name.%20Enter%20the%20name%20for%20the%20LAMBDA%20function."target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/Lambda.jpg" alt="Lambda" width=120"/> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/lambda-i.jpg" alt="Lambda" width=120"/> 
   </a>
   <a href="https://www.python.org" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/python.jpg" alt="python" width=120"/> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/python-i.jpg" alt="python" width=120"/> 
   </a>
   <a href="https://www.autohotkey.com/" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/auto-hot-key.jpg" alt="auto-hot-key" width=120"/> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/auto-hot-key-i.jpg" alt="auto-hot-key" width=120"/> 
   </a>
 
 </p>
@@ -56,10 +56,10 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/ismail-hosen-eap/" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/linkedin.jpg" alt="linkedin id" width=120"/> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/linkedin-i.jpg" alt="linkedin id" width=120"/> 
   </a>
   <a href="https://www.facebook.com/mdismail.hosen.7" target="_blank" > 
-    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/facebook.jpg" alt="facebook id" width=120"/> 
+    <img src="https://excelautomationpro.com/wp-content/uploads/2024/04/facebook-i.jpg" alt="facebook id" width=120"/> 
   </a>
 
 </p>
